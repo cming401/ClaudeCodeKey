@@ -1,4 +1,4 @@
-Registerion url = https://anyrouter.top/register?aff=yAph 
+#Registerion url = https://anyrouter.top/register?aff=yAph 
 
 <p align="left">
   <a href="./README.zh-CN.md">
