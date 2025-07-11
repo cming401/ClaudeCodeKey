@@ -1,10 +1,14 @@
-#Registerion url = https://anyrouter.top/register?aff=yAph 
+# [Registration url](https://anyrouter.top/register?aff=yAph)
 
 <p align="left">
   <a href="./README.zh-CN.md">
     <img src="https://img.shields.io/badge/-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-blue?style=for-the-badge" alt="简体中文">
   </a>
 </p>
+
+# Claude Code CLI Installation and Usage Guide
+
+This guide will walk you through how to install, configure, and use the `@anthropic-ai/claude-code` CLI tool via the `https://anyrouter.top` proxy service.
 
 ### 1️⃣ **Install Node.js** (Skip if already installed)
 
