@@ -1,4 +1,4 @@
-# Registerion url = https://anyrouter.top/register?aff=yAph 
+# [注册地址](https://anyrouter.top/register?aff=yAph)
 
 <p align="left">
   <a href="./README.md">
