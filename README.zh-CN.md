@@ -1,3 +1,10 @@
+#Registerion url = https://anyrouter.top/register?aff=yAph 
+
+<p align="left">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-blue?style=for-the-badge" alt="English">
+  </a>
+</p>
 
 # Claude Code 命令行工具安装与使用指南
 
