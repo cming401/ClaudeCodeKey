@@ -1,5 +1,11 @@
 Registerion url = https://anyrouter.top/register?aff=yAph 
 
+<p align="right">
+  <a href="./README.zh-CN.md">
+    <img src="https://img.shields.io/badge/-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-blue?style=for-the-badge" alt="简体中文">
+  </a>
+</p>
+
 ### 1️⃣ **Install Node.js** (Skip if already installed)
 
 Ensure your Node.js version is `≥ 18.0`.
